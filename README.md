@@ -50,12 +50,6 @@ Currently, I focus on **Power Apps, Power Automate, Dataverse**, and other Micro
 ---
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Level-45-brightgreen?style=for-the-badge&logo=gamepad" alt="Level"/>
-  <img src="https://img.shields.io/badge/Commits-10k-blue?style=for-the-badge&logo=github" alt="Commits"/>
-  <img src="https://img.shields.io/badge/Repos-85-purple?style=for-the-badge&logo=github" alt="Repos"/>
-  <img src="https://img.shields.io/badge/Followers-1.2k-orange?style=for-the-badge&logo=github" alt="Followers"/>
-</p>
 
 #### 🏆 Languages & XP Bars
 - **Python** ▓▓▓▓▓▓▓▓ 90%  
