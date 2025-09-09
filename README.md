@@ -17,9 +17,9 @@
 I am a **dedicated Power Platform Consultant** passionate about automating processes and building low-code solutions that drive efficiency.  
 Currently, I focus on **Power Apps, Power Automate, Dataverse**, and other Microsoft solutions to help organisations digitise workflows.
 
-- 🔭 Working at **1Dynamics**  
-- 🌱 Learning advanced **Power Platform automation strategies**  
-- 💬 Open to **collaborations, mentorship, and knowledge-sharing**  
+- Working at **1Dynamics**  
+- Learning advanced **Power Platform automation strategies**  
+- Open to **collaborations, mentorship, and knowledge-sharing**  
 
 ---
 
@@ -53,7 +53,7 @@ Currently, I focus on **Power Apps, Power Automate, Dataverse**, and other Micro
 
 #### 🏆 Languages & XP Bars
 - **Python** ▓▓▓▓▓▓▓▓ 90%  
-- **JavaScript** ▓▓▓▓▓▓▓░ 75%  
+- **Java** ▓▓▓▓▓▓▓░ 75%  
 - **React** ▓▓▓▓▓▓░░ 65%  
 - **Node.js** ▓▓▓▓▓░░░ 55%  
 - **HTML/CSS** ▓▓▓▓▓▓▓▓ 80%  
