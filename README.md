@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ummehanibaig" alt="ummehanibaig" /></a> </p>
 
-- 🔭 I’m currently working in **1Dynamics**
+- 🔭 I’m currently working at **1Dynamics PVT LTD**
 
 - 🌱 I’m currently learning **Power Platforms**
 
