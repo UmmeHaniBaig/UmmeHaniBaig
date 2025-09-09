@@ -1,9 +1,9 @@
-<p align="center">
-  <img src="https://camo.githubusercontent.com/e1e78e041c734123456789abcdef123456789abcdef123456789abcdef12345/68747470733a2f2f696d616765732e756e73706c6173682e636f6d2f7068726f6d6f74696f6e616c2f646576656c6f7065722d6d616e2d6769746875622e676966" alt="Gradient Banner" width="100%"/>
-</p>
-
 <h1 align="center">I'm Hani Baig</h1>
 <h3 align="center">Power Platform Consultant | Low-Code & Automation Enthusiast | Pakistan Based</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ummehanibaig&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -15,7 +15,7 @@
 
 ### 🔹 About Me
 I am a **dedicated Power Platform Consultant** passionate about automating processes and building low-code solutions that drive efficiency.  
-Currently, I focus on **Power Apps, Power Automate, Dataverse**, and other Microsoft solutions to help organizations digitize workflows.
+Currently, I focus on **Power Apps, Power Automate, Dataverse**, and other Microsoft solutions to help organisations digitise workflows.
 
 - 🔭 Working at **1Dynamics**  
 - 🌱 Learning advanced **Power Platform automation strategies**  
@@ -29,7 +29,7 @@ Currently, I focus on **Power Apps, Power Automate, Dataverse**, and other Micro
     <img src="https://img.shields.io/badge/LinkedIn-Hani_Baig-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="mailto:hanibaig@example.com">
-    <img src="https://img.shields.io/badge/Email-hanibaig%40example.com-red?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/ummehanibaig.02@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
 
