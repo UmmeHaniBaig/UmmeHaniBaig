@@ -1,35 +1,35 @@
-<h1 align="center">Hi 👋, I'm Hani Baig</h1>
-<h3 align="center">Power Platform Consultant | Low-Code & Automation Enthusiast | Based in Pakistan</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ummehanibaig&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://camo.githubusercontent.com/e1e78e041c734123456789abcdef123456789abcdef123456789abcdef12345/68747470733a2f2f696d616765732e756e73706c6173682e636f6d2f7068726f6d6f74696f6e616c2f646576656c6f7065722d6d616e2d6769746875622e676966" alt="Gradient Banner" width="100%"/>
 </p>
+
+<h1 align="center">I'm Hani Baig</h1>
+<h3 align="center">Power Platform Consultant | Low-Code & Automation Enthusiast | Pakistan Based</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ummehanibaig" alt="GitHub Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ummehanibaig&theme=onedark" alt="GitHub Trophy" />
   </a>
 </p>
 
 ---
 
 ### 🔹 About Me
-I am a **dedicated Power Platform Consultant** passionate about helping organizations automate processes, streamline workflows, and build low-code solutions that drive business efficiency.  
-I am continuously learning **Microsoft Power Platform, Dataverse, Power Apps, and Power Automate** to deliver innovative solutions.
+I am a **dedicated Power Platform Consultant** passionate about automating processes and building low-code solutions that drive efficiency.  
+Currently, I focus on **Power Apps, Power Automate, Dataverse**, and other Microsoft solutions to help organizations digitize workflows.
 
-- 🔭 Currently working at **1Dynamics**  
-- 🌱 Learning and exploring **advanced Power Platform solutions and automation strategies**  
-- 💬 Always open to **collaborations, mentorship, and knowledge-sharing**
+- 🔭 Working at **1Dynamics**  
+- 🌱 Learning advanced **Power Platform automation strategies**  
+- 💬 Open to **collaborations, mentorship, and knowledge-sharing**  
 
 ---
 
 ### 💼 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/hani-baig" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Hani_Baig-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="mailto:hanibaig@example.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Email" width="40" height="40"/>
+  <a href="mailto:hanibaig@example.com">
+    <img src="https://img.shields.io/badge/Email-hanibaig%40example.com-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
 
@@ -37,27 +37,26 @@ I am continuously learning **Microsoft Power Platform, Dataverse, Power Apps, an
 
 ### 🛠 Skills & Tools
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/amazonwebservices/amazonwebservices-icon.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ummehanibaig&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ummehanibaig&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ummehanibaig&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ummehanibaig&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1581091012184-d7a1809efc94?fit=crop&w=1200&q=80" alt="Background" width="80%" style="border-radius:12px; box-shadow:0 5px 15px rgba(0,0,0,0.3)"/>
-</div>
+<p align="center">
+  <img src="https://c.tenor.com/ZzH4p26s4XAAAAAC/animation-technology.gif" alt="Animated Tech GIF" width="60%"/>
+</p>
