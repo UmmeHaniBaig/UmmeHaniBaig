@@ -28,7 +28,7 @@ Currently, I focus on **Power Apps, Power Automate, Dataverse**, and other Micro
   <a href="https://linkedin.com/in/hani-baig" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Hani_Baig-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="mailto:hanibaig@example.com">
+  <a href="mailto:ummehanbaig.02@gmail.com">
     <img src="https://img.shields.io/badge/ummehanibaig.02@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
@@ -49,7 +49,6 @@ Currently, I focus on **Power Apps, Power Automate, Dataverse**, and other Micro
 
 ---
 
-### 🎮 My GitHub Profile Stats (Gamer Mode!)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Level-45-brightgreen?style=for-the-badge&logo=gamepad" alt="Level"/>
@@ -65,7 +64,7 @@ Currently, I focus on **Power Apps, Power Automate, Dataverse**, and other Micro
 - **Node.js** ▓▓▓▓▓░░░ 55%  
 - **HTML/CSS** ▓▓▓▓▓▓▓▓ 80%  
 
-#### 📊 G
+#### 
 
 ---
 
