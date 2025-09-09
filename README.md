@@ -49,11 +49,23 @@ Currently, I focus on **Power Apps, Power Automate, Dataverse**, and other Micro
 
 ---
 
-### 📊 GitHub Stats
+### 🎮 My GitHub Profile Stats (Gamer Mode!)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ummehanibaig&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ummehanibaig&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Level-45-brightgreen?style=for-the-badge&logo=gamepad" alt="Level"/>
+  <img src="https://img.shields.io/badge/Commits-10k-blue?style=for-the-badge&logo=github" alt="Commits"/>
+  <img src="https://img.shields.io/badge/Repos-85-purple?style=for-the-badge&logo=github" alt="Repos"/>
+  <img src="https://img.shields.io/badge/Followers-1.2k-orange?style=for-the-badge&logo=github" alt="Followers"/>
 </p>
+
+#### 🏆 Languages & XP Bars
+- **Python** ▓▓▓▓▓▓▓▓ 90%  
+- **JavaScript** ▓▓▓▓▓▓▓░ 75%  
+- **React** ▓▓▓▓▓▓░░ 65%  
+- **Node.js** ▓▓▓▓▓░░░ 55%  
+- **HTML/CSS** ▓▓▓▓▓▓▓▓ 80%  
+
+#### 📊 G
 
 ---
 
